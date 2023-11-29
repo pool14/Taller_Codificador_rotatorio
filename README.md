@@ -1,2 +1,5 @@
 # Taller_Codificador_rotatorio
 Taller_Codificador_rotatorio
+
+
+El dispositivo CAC-40 es un codificador rotatorio instalado en una placa de circuito con resistencias en la parte posterior y cinco pines para la conexión. Incluye un interruptor simple que se activa al presionar el eje. A diferencia de un potenciómetro, este codificador no tiene límites y puede girarse libremente en cualquier dirección, lo que significa que su posición siempre se calcula en relación con su posición anterior. En cuanto a la conexión, los pines A y B representan las señales, mientras que el pin C es el común conectado eléctricamente al plato dentado del codificador. Además, se incorporan dos resistencias de 10 kΩ al positivo de la tensión, conocidas como resistencias de pull-up. El sentido de giro se describe en términos de las agujas del reloj: el movimiento horario indica la dirección en que giran las manecillas del reloj, y el antihorario representa el movimiento en sentido contrario. Al girar el codificador, las señales en los pines A y B cambian de alto a bajo, generando pulsos al transitar de un paso a otro.
